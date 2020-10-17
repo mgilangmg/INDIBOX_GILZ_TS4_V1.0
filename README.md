@@ -1,8 +1,8 @@
 # INDIBOX_GILZ_TS4_V1.0
 FRIMWARE INDIBOX BY GILZ
 
-Download (TESTER) frimware: 
-https://tinyurl.com/GILZINDIBOXTESTER
+Download (TESTER) frimware:
+https://tinyurl.com/GILZINDIBOXTESTER-UBT
 
 Download (RELEASE) frimware: 
 https://tinyurl.com/GILZINDIBOXSOON
@@ -27,11 +27,11 @@ Changelog Update
 
 Flash STB
 =============
-- Matikan antivirus sementara
+- Extract rar hasil download
+- Buka USB Burning Tools (Jika belum punya silahkan cari di google)
+- Pilih file .img arahkan ke GILZ_V1_INDIBOX_15102020.img
+- Unchecklist bootloader, lalu klik start
 - Connect STB INDIBOX ke laptop (Tahan tombol power, tancap kabel usb m2m ke usb port STB INDIBOX disebelah samping slot sdcard, lalu tancap kabel m2m ke laptop sampai notif sound bunyi pada laptop)
-- Jalankan aplikasi GILZ_V1_INDIBOX.exe
-- Lanjut mengecheck device connection dengan cara pilih nomor 1
-- Lalu dilanjut pilih nomor 2 untuk melakukan flash
 - Tunggu flahsing sampai selesai (lebih kurang 5 menit)
 - Cabut STB dari pc, dan connect ke tv
 
